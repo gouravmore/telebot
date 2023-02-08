@@ -1,0 +1,23 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gouravmore/telebot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gouravmore/telebot/issues"
+  },
+  "homepage": "https://github.com/gouravmore/telebot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
